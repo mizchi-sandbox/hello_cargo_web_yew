@@ -2,6 +2,8 @@
 extern crate yew;
 #[macro_use]
 extern crate serde_derive;
+extern crate serde;
+extern crate serde_json;
 
 use yew::prelude::{Component, ComponentLink, Html, Renderable, ShouldRender};
 
