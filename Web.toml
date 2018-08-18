@@ -18,4 +18,4 @@ minimum-version = "0.6.0"
 
 # You can also specify the target by its full name.
 # [target.wasm32-unknown-unknown]
-# prepend-js = "src/native_runtime.js"
+# prepend-js = "src/runtime.js"
