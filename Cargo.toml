@@ -7,3 +7,5 @@ authors = ["Kotaro Chikuba <miz404@gmail.com>"]
 stdweb = "0.4.2"
 # Use yew '0.5.0'. It's not published yet.
 yew = { git = "https://github.com/DenisKolodin/yew.git", rev = "49319b8c02a8eeb15ed4c8a8761f83adcee856b0" }
+serde = "1"
+serde_derive = "1"
